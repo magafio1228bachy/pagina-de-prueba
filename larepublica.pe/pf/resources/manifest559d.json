@@ -1,0 +1,37 @@
+{
+  "name": "La República",
+  "short_name": "La República",
+  "icons": [
+    {
+      "src": "https://cdn.larepublica.pe/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "https://cdn.larepublica.pe/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://cdn.larepublica.pe/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "https://cdn.larepublica.pe/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.larepublica.pe/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "orientation": "portrait",
+  "display": "standalone",
+  "background_color": "#DE0B1B",
+  "theme_color": "#DE0B1B"
+}
